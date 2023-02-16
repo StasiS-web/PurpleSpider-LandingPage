@@ -5,16 +5,27 @@
     box-sizing: border-box;
 }
 
-/* Remove default margin */
-body
+/* Remove default margin and padding */
+html,
+body,
+div,
 h1,
 h2,
 h3,
 h4,
 p,
+ul,
+li,
+nav,
+img,
+header,
+form,
+strong,
+section,
 figure,
 blockquote{
     margin: 0;
+    padding: 0;
 }
 
 /*  Remove list styles on ul, ol elements with a list role */
