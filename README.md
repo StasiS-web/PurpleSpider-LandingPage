@@ -6,6 +6,9 @@ A simple landing website page. It is an exercise from [SoftUni](https://softuni.
 ## :hammer: Used technologies
 * HTML5
 * CSS
+* FlexBox
+* CSS Grid
+* Media Queries
 
 ## Resources
 * Local screenshot files
